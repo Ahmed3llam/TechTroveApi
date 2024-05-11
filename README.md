@@ -1,4 +1,4 @@
-# TechTrove E-Commerce Website API Redmi File
+# TechTrove E-Commerce Website API
 ## Authentication Endpoints
 POST /api/auth/login: Endpoint for user login. Requires email and password. Returns token and user identity.
 POST /api/auth/register: Endpoint for user registration. Requires user details. Returns token and user identity.
